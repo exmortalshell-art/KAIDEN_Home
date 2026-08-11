@@ -1,14 +1,24 @@
 # KAIDEN_Home
 
-Home base for KAIDEN Cursor skills (web + desktop).
+Набор Cursor-skills для самоопределения и работы: разобраться, чего хочешь, что умеешь, куда идти и как выбирать вакансии.
 
-## Skills
+## С чего начать
 
-| Slash | What it does |
-|-------|----------------|
-| `/grill-me` | Starts a grilling interview to sharpen a plan |
-| `/grilling` | Relentless design-tree interview (rounds of frontier questions) |
+1. Открой этот репозиторий в [Cursor](https://cursor.com) (веб или приложение).
+2. Открой файл **[ИНСТРУКЦИЯ.md](./ИНСТРУКЦИЯ.md)** — там простым языком: какую команду писать и в какой ситуации.
+3. В Agent-чате набери слэш-команду, например `/career-compass`.
 
-Open this repo in Cursor (desktop or web). Skills load from `.cursor/skills/` and `.agents/skills/`.
+## Skills в репо
 
-Type `/grill-me` in Agent chat to run.
+| Команда | Зачем |
+|---------|--------|
+| `/grill-me` | Интервью «что я на самом деле хочу / не хочу» |
+| `/grilling` | То же ядро интервью (обычно хватает `/grill-me`) |
+| `/career-compass` | Направление, разбор вакансии, ревью CV (рус.) |
+| `/profile-builder` | Собрать профиль из резюме/опыта |
+| `/decision-intelligence` | Сложный выбор (две опции, уходить/оставаться) |
+| `/resume-intelligence-hub` | Долгий карьерный хаб (цели, gap, заявки) |
+| `/career-ops` | Оценка офферов, сравнение, трекер, интервью |
+| `/career-review-cycle` | Цели, лог работы, brag doc, ревью, повышение |
+
+Черновик профиля после grilling лежит в `career/profile.md`.
