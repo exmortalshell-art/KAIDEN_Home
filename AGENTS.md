@@ -28,6 +28,16 @@ When the user wants **self-understanding, mood, thought loops, psychometrics, re
 | `/поиск-работы` | `.cursor/skills/career-ops/SKILL.md` |
 | `/рабочий-цикл` | `.cursor/skills/career-review-cycle/SKILL.md` |
 | `/лаборатория`, `/разберись-в-себе` | `.cursor/skills/inner-lab/SKILL.md` |
+| `/запись-мысли` | `.cursor/skills/thought-record/SKILL.md` |
+| `/ценности` | `.cursor/skills/psy-values/SKILL.md` |
+| `/навык` | `.cursor/skills/dbt-now/SKILL.md` |
+| `/изменение` | `.cursor/skills/psy-change/SKILL.md` |
+| `/психотест` | `.cursor/skills/psy-test/SKILL.md` |
+| `/чекин` | `.cursor/skills/psy-checkin/SKILL.md` |
+| `/обзор-паттернов` | `.cursor/skills/psy-review/SKILL.md` |
+| `/активация` | `.cursor/skills/psy-activation/SKILL.md` |
+| `/если-то` | `.cursor/skills/psy-woop/SKILL.md` |
+| `/заземление` | `.cursor/skills/psy-ground/SKILL.md` |
 
 Английские `/grill-me`, `/inner-lab` и остальные по-прежнему валидны. Файлы-алиасы: `.cursor/commands/*.md`.
 
