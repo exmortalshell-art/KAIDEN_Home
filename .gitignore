@@ -5,3 +5,15 @@
 !.gitkeep
 config.local.yaml
 .career-skills.local.toml
+
+# Inner Lab — private psychological notes (never commit real entries)
+psy/profile.md
+psy/summary.md
+psy/sessions/*
+!psy/sessions/.gitkeep
+psy/records/*
+!psy/records/.gitkeep
+psy/checkins/*
+!psy/checkins/.gitkeep
+psy/tests/*
+!psy/tests/.gitkeep

@@ -4,11 +4,13 @@ This repository is a **decision intelligence workspace**, not a software project
 
 ## Default behavior
 
-When the user describes a problem, fork in the road, or upcoming project:
+When the user describes a **choice** (fork, project, stay/leave, A vs B):
 
 1. Load the **decision-intelligence** skill (`.cursor/skills/decision-intelligence/SKILL.md`).
 2. Run the **full session workflow** unless they ask for a single framework only.
 3. Treat **`sessions/*.md`** as the source of truth; create or update the active session file every phase.
+
+When the user wants **self-understanding, mood, thought loops, psychometrics, regulation skills** (not a job choice): load **inner-lab** (`.cursor/skills/inner-lab/SKILL.md`). Do not run the seven decision frameworks on a panic thought or a personality test. Career JD/offers stay in career-compass / career-ops.
 
 ## User preferences (project defaults)
 
