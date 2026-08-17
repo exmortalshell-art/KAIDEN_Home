@@ -2,9 +2,10 @@
 name: career-ops
 description: >-
   AI job search command center -- evaluate offers, generate CVs, scan portals,
-  track applications. Use when the user pastes a job URL or JD, asks to scan
-  portals, generate a CV/PDF, track applications, prepare for interviews, draft
-  outreach/emails, or run any career-ops mode.
+  track applications. Slash: /career-ops or /поиск-работы. Use when the user
+  pastes a job URL or JD, asks to scan portals, generate a CV/PDF, track
+  applications, prepare for interviews, draft outreach/emails, or run any
+  career-ops mode.
 arguments: mode
 user_invocable: true
 user-invocable: true

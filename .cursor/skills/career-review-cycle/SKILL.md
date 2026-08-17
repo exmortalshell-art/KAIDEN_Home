@@ -3,11 +3,12 @@ name: career-review-cycle
 description: >
   Manage your career performance across the full year cycle: set and track
   yearly goals, log daily work, generate brag documents, prepare for
-  performance reviews and 1-on-1s, and build promotion cases. Use when the
-  user mentions performance goals, OKRs, work logging, accomplishments, brag
-  doc, self-assessment, annual review, mid-year review, 1-on-1 prep, promotion
-  case, or promo doc. Also triggers on "what did I work on", "log my work",
-  "review prep", "set my goals", "career goals", or "am I ready for promotion".
+  performance reviews and 1-on-1s, and build promotion cases. Slash:
+  /career-review-cycle or /рабочий-цикл. Use when the user mentions performance
+  goals, OKRs, work logging, accomplishments, brag doc, self-assessment, annual
+  review, mid-year review, 1-on-1 prep, promotion case, or promo doc. Also
+  triggers on "what did I work on", "log my work", "review prep", "set my goals",
+  "career goals", "цели на год", or "am I ready for promotion".
 compatibility: Requires a writable filesystem. Output is Markdown, compatible with Obsidian and any text editor.
 ---
 

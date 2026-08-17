@@ -12,6 +12,25 @@ When the user describes a **choice** (fork, project, stay/leave, A vs B):
 
 When the user wants **self-understanding, mood, thought loops, psychometrics, regulation skills** (not a job choice): load **inner-lab** (`.cursor/skills/inner-lab/SKILL.md`). Do not run the seven decision frameworks on a panic thought or a personality test. Career JD/offers stay in career-compass / career-ops.
 
+## Русские слэш-команды = те же скиллы
+
+Имена скиллов Cursor — только латиница (`name`: a-z, 0-9, дефис). Русский `/спроси-меня` — алиас, не отдельный скилл.
+
+Если пользователь пишет русскую команду (со слэшем или без) — **сразу** открой соответствующий `SKILL.md` и работай по нему. Не спрашивай «ты имел в виду английское имя?».
+
+| Пользователь пишет | Скилл |
+|--------------------|--------|
+| `/спроси-меня`, «спроси меня» | `.cursor/skills/grill-me/SKILL.md` → grilling |
+| `/карьерный-компас`, «карьерный компас» | `.cursor/skills/career-compass/SKILL.md` |
+| `/собери-профиль`, «собери профиль» | `.cursor/skills/profile-builder/SKILL.md` |
+| `/помоги-решить`, «помоги решить», «новое решение» | `.cursor/skills/decision-intelligence/SKILL.md` |
+| `/карьерный-хаб` | `.cursor/skills/resume-intelligence-hub/SKILL.md` |
+| `/поиск-работы` | `.cursor/skills/career-ops/SKILL.md` |
+| `/рабочий-цикл` | `.cursor/skills/career-review-cycle/SKILL.md` |
+| `/лаборатория`, `/разберись-в-себе` | `.cursor/skills/inner-lab/SKILL.md` |
+
+Английские `/grill-me`, `/inner-lab` и остальные по-прежнему валидны. Файлы-алиасы: `.cursor/commands/*.md`.
+
 ## User preferences (project defaults)
 
 | Setting | Value |

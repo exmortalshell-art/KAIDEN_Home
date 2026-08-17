@@ -1,6 +1,10 @@
 ---
 name: profile-builder
-description: Builds and updates the user's personal profile from raw CV or career materials. Use when the user shares CV/background context as files in raw_inputs/profile/ or directly in chat, and wants to update memory/personal_profile.md. Also use when the user wants to add a new experience, skill, or education entry to their profile.
+description: >
+  Builds and updates the user's personal profile from raw CV or career materials.
+  Slash: /profile-builder or /собери-профиль. Also when the user shares CV/background
+  in raw_inputs/profile/ or chat and wants to update memory/personal_profile.md,
+  or add an experience, skill, or education entry.
 ---
 
 # Profile Builder

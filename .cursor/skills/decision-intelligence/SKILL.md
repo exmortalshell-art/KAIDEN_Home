@@ -1,6 +1,12 @@
 ---
 name: decision-intelligence
-description: Facilitates structured decision-making through seven frameworks (First Principles, Inversion, 5 Whys, Second-Order, Regret Minimization, Opportunity Cost, Pre-Mortem). Use when the user says "new decision", "help me decide", "decision lab", "resume session", works in sessions/, or describes a problem, career fork, or commitment needing structured thinking.
+description: >
+  Facilitates structured decision-making through seven frameworks (First Principles,
+  Inversion, 5 Whys, Second-Order, Regret Minimization, Opportunity Cost, Pre-Mortem).
+  Slash: /decision-intelligence or /помоги-решить. Use when the user says
+  "new decision", "новое решение", "help me decide", "помоги решить",
+  "decision lab", "resume session", works in sessions/, or describes a problem,
+  career fork, or commitment needing structured thinking.
 ---
 
 # Decision Intelligence
